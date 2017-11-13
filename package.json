@@ -1,5 +1,5 @@
 {
-	"name": "fmd",
+	"name": "fmd2",
 	"title": "factory-module-definition",
 	"description": "Factory Module Definition a simple factory module wrapper (Node, AMD, Browser, ...).",
 	"version": "0.1.0",
@@ -8,6 +8,12 @@
 		"name": "Evan Vosberg",
 		"url": "http://github.com/evanvosberg"
 	},
+	"contributors": [
+		{
+			"name": "Andy Perlitch",
+			"url": "http://andyperlitch.net"
+		}
+	],
 	"repository": {
 		"type": "git",
 		"url": "http://github.com/evanvosberg/fmd.git"
